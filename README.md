@@ -1,4 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Darragh Redmond =======================================================================================================================================  Master's student ----------------  * 🌍  I'm based in Dublin * ✉️  You can contact me at [darragh.redmond@ucdconnect.ie](mailto:darragh.redmond@ucdconnect.ie)
+#### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Darragh Redmond 
+Master's student @ UCD  
+* 🌍  I'm based in Dublin *
+* ✉️  You can contact me at [darragh.redmond@ucdconnect.ie](mailto:darragh.redmond@ucdconnect.ie)
 
 ### Skills  
 
