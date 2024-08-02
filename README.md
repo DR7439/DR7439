@@ -37,8 +37,8 @@ https://github.com/user-attachments/assets/6844dbf3-b711-43e3-ab1e-f16e503d057b
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=DR7439&show_icons=true&theme=radical" alt="Darragh Redmond's GitHub stats" /></td>
     <td><img src="https://streak-stats.demolab.com?user=DR7439&theme=radical" alt="Darragh Redmond's GitHub Streaks" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=DR7439&show_icons=true&theme=radical" alt="Darragh Redmond's GitHub stats" /></td>
   </tr>
 </table>
 
