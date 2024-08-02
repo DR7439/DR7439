@@ -31,7 +31,4 @@ https://github.com/user-attachments/assets/6844dbf3-b711-43e3-ab1e-f16e503d057b
 **Description:** Dublin Bikes is an interactive web application designed to facilitate bike sharing in the city of Dublin. It provides real-time information on bike availability and weather conditions, includes a journey planner, and integrates with Google Maps for easy navigation.  
 **GitHub Repo:** [[Link to the repository](https://github.com/DR7439/dublin-bikes-app.git)](#)
 
-<img width="660" alt="DublinBikesHome" src="https://github.com/user-attachments/assets/5ef54e2c-6456-4a39-afe4-a380ce13e70c"> <img width="853" alt="DublinBikesJourneyPlanner" src="https://github.com/user-attachments/assets/3f545d83-1de3-4ce7-922f-0d553b16d41c">
-
-
-
+<img width="660" alt="DublinBikesHome" src="https://github.com/user-attachments/assets/5ef54e2c-6456-4a39-afe4-a380ce13e70c"> 
