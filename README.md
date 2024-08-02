@@ -34,5 +34,6 @@ https://github.com/user-attachments/assets/6844dbf3-b711-43e3-ab1e-f16e503d057b
 <img width="660" alt="DublinBikesHome" src="https://github.com/user-attachments/assets/5ef54e2c-6456-4a39-afe4-a380ce13e70c"> 
 
 
-![Darragh Redmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR7439&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DR7439&theme=radical)](https://git.io/streak-stats)
+
 
