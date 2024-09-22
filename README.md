@@ -1,4 +1,4 @@
-#### Hi My name is Darragh Redmond 
+#### Hey my name is Darragh Redmond 
 Master's student @ UCD  
 * 🌍  Based in Dublin *
 * ✉️  You can contact me at [darragh.redmond@ucdconnect.ie](mailto:darragh.redmond@ucdconnect.ie)
